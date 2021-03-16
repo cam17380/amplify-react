@@ -28,11 +28,10 @@ function App() {
 
   return (
     <div className="App">
-<<<<<<< HEAD
       <container>
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1>Hello from V2</h1>
+          <h1>Hello from V3</h1>
         </header>
       </container>
       <container>
@@ -44,12 +43,6 @@ function App() {
           <button type="button" onclick="callAPI(document.getElementById('fName').value,document.getElementById('lName').value)">Call API</button>
         </form>
       </container>
-=======
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello from V3</h1>
-      </header>
->>>>>>> 2546fbb0806bddce3d5b9da68e286f5ef2ff5b35
     </div>
   );
 }
