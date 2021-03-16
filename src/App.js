@@ -33,8 +33,6 @@ function App() {
           <img src={logo} className="App-logo" alt="logo" />
           <h1>Hello from V3</h1>
         </header>
-      </container>
-      <container>
         <form className="InputGroup">
           <label>First Name :</label>
           <input type="text" id="fName"/>
